@@ -7,7 +7,6 @@
 ##v1.20: Randomized Potential based on Age
 ##v1.30 Fixed Player Salaries; New Coverage Formula; Using PFC-Converter v1.2
 ##v1.50 Normalizing Salaries to avoid salary cap issues
-## http://www.AntDroid.net
 ######################################################################  RAVENS
 Baltimore Ravens,BAL
 QB,Joe Flacco,32,2008,70,67,95,99,68,40,19.9,2
